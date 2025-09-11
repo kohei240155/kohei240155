@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kohei+%F0%9F%91%8B;Next.js+Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Lover+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,24 +17,26 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="100" height="100" alt="Next.js" />
+<br><strong>Next.js</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### 👋 **Hi, I'm Kohei Fujiwara!**
+🚀 **Full Stack Engineer** with strong focus on **Next.js (TypeScript)**  
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🌍 **Location:** Japan 🇯🇵 → Vancouver 🇨🇦  
+💼 **Focus:** Building scalable web applications with modern stacks  
+🎯 **Goal:** Delivering seamless **UI/UX** and robust backend systems  
+☕ **Powered by:** Coffee, curiosity, and clean code  
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ## 📊 **GitHub Analytics**
 
@@ -43,8 +45,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=Kohei's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
+
+---
 
 ## 🛠️ **Tech Stack**
 
@@ -52,42 +56,48 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🌐 **Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,materialui" />
 
-### ☁️  **Backend as a Service (BaaS)**
+### ☁️ **Backend / DevOps**
+<img src="https://skillicons.dev/icons?i=spring,java,docker,gitlab,github,vercel" />
+
+### ⚡ **BaaS**
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,oracle,mysql" />
 
-### 🎨  **Design**
+### 🎨 **Design**
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 💻 **Other Languages**
+<img src="https://skillicons.dev/icons?i=js,html,css,python,ruby,rails" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+---
+
+## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&margin-w=4&column=7&title=Commit,Commits,Repositories,Issues,PullRequest,Stars" />
 </div>
 
-## 💭 **Random Dev Quote**
+---
+
+## 💭 **Dev Quote**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
@@ -96,7 +106,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
+  **⭐ From [Kohei](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Next.js empowers developers to build fast, scalable, and beautiful apps 🚀"*
 </div>
