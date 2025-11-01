@@ -23,12 +23,13 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Kohei Fujiwara!**
-🚀 **Full Stack Engineer** with strong focus on **Next.js (TypeScript)**  
+
+🚀 **Full Stack Engineer** with strong focus on **Next.js (TypeScript)**
 
 🌍 **Location:** Japan 🇯🇵 → Vancouver 🇨🇦  
 💼 **Focus:** Building scalable web applications with modern stacks  
 🎯 **Goal:** Delivering seamless **UI/UX** and robust backend systems  
-☕ **Powered by:** Coffee, curiosity, and clean code  
+☕ **Powered by:** Coffee, curiosity, and clean code
 
 </td>
 </tr>
@@ -41,11 +42,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kohei240155&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=Kohei's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kohei240155&custom_title=Kohei's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -57,24 +58,30 @@
 <td width="50%" align="center" valign="top">
 
 ### 🌐 **Frontend**
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,materialui" />
 
 ### ☁️ **Backend / DevOps**
+
 <img src="https://skillicons.dev/icons?i=spring,java,docker,gitlab,github,vercel" />
 
 ### ⚡ **BaaS**
+
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️ **Database**
+
 <img src="https://skillicons.dev/icons?i=postgresql,oracle,mysql" />
 
 ### 🎨 **Design**
+
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
 ### 💻 **Other Languages**
+
 <img src="https://skillicons.dev/icons?i=js,html,css,python,ruby,rails" />
 
 </td>
@@ -86,7 +93,7 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&margin-w=4&column=7&title=Commit,Commits,Repositories,Issues,PullRequest,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kohei240155&theme=transparent&no-frame=true&margin-w=4&column=7&title=Commit,Commits,Repositories,Issues,PullRequest,Stars" />
 </div>
 
 ---
@@ -106,8 +113,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [Kohei](https://github.com/user) with ❤️**
+  **⭐ From [Kohei](https://github.com/kohei240155) with ❤️**
   
   *"Next.js empowers developers to build fast, scalable, and beautiful apps 🚀"*
 </div>
-
