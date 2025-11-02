@@ -126,4 +126,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?quote=Done%20is%20better%20than%20perfect.&author=Mark%20Zuckerberg&type=horizontal&theme=dark" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
 </div>
