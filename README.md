@@ -76,30 +76,29 @@
 
 ### 🌐 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,materialui,angular" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 
-### ☁️ **Backend / DevOps**
+### ☁️ **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,java,docker,gitlab,github,vercel" />
+<img src="https://skillicons.dev/icons?i=spring,java,supabase" />
 
-### ⚡ **BaaS**
+### 🗄️ **Database**
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️ **Database**
+### ⚡ **DevOps**
 
-<img src="https://skillicons.dev/icons?i=postgresql,oracle,mysql" />
+<img src="https://skillicons.dev/icons?i=docker,gitlab,github,vercel,azure" />
 
-### 🎨 **Design**
+### 💻 **Others**
 
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=python,git,linux,figma,postman" />
 
-### 💻 **Other Languages**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,python,ruby,rails" />
+<img src="https://skillicons.dev/icons?i=powershell,vscode,eclipse" />
 
 </td>
 </tr>
