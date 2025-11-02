@@ -1,13 +1,5 @@
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div> -->
-
 <div align="center">
-  <img src="./header.png" alt="Header Image" width="100%" style="object-fit: cover; max-height: 200px;" />
+  <img src="./header.png" alt="Header Image" width="100%" style="object-fit: cover" />
 </div>
 
 <br/>
@@ -109,7 +101,7 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kohei240155&theme=transparent&no-frame=true&margin-w=4&column=7&title=Commit,Commits,Repositories,Issues,PullRequest,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kohei240155&theme=onedark&no-frame=true&margin-w=10&row=2&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,Organizations" />
 </div>
 
 ---
@@ -117,7 +109,7 @@
 ## 💭 **Dev Quote**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Done%20is%20better%20than%20perfect.&author=Mark%20Zuckerberg&type=horizontal&theme=dark" />
 </div>
 
 ---
