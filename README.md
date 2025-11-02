@@ -19,7 +19,11 @@
 	</a>
 </p>
 
-## 🌟 **About Me**
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=kohei240155&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+## 👨🏻‍💻 **About Me**
 
 <div align="center">
 
@@ -106,22 +110,20 @@
 
 ---
 
+## 📕 **Pinned Repositories**
+
+<p align="center">
+	<a href="https://github.com/kohei240155/solo-speak">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kohei240155&repo=solo-speak&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+</p>
+
+---
+
 ## 💭 **Dev Quote**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=Done%20is%20better%20than%20perfect.&author=Mark%20Zuckerberg&type=horizontal&theme=dark" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [Kohei](https://github.com/kohei240155) with ❤️**
-  
-  *"Next.js empowers developers to build fast, scalable, and beautiful apps 🚀"*
 </div>
